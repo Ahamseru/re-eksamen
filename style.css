@@ -79,6 +79,7 @@ body {
 .massage-link{
 
     font-size: 1.3em;
+    text-decoration: underline;
 
 }
 
@@ -107,17 +108,6 @@ body {
 }
 
 
-
-
-@media screen and (max-width: 840px) {
-
-    .body-gallery-grid {
-
-        grid-template-columns: auto auto;
-
-    }
-
-}
 
 @media screen and (max-width: 555px) {
 
